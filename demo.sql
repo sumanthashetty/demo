@@ -1,1 +1,1 @@
-select * from tblusers
+select * from tblusers limit 10
